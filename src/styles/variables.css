@@ -1,0 +1,24 @@
+/* Mirrors core/theme/theme.ts. Change a colour in both places. */
+:root {
+  --canvas: #f4f4f2;
+  --white: #ffffff;
+  --text: #1a1e2b;
+  --muted: rgba(26, 30, 43, 0.58);
+  --faint: rgba(26, 30, 43, 0.38);
+  --border: #e4e5e9;
+  --border-strong: #c9ccd4;
+  --accent: #2b5aa8;
+  --accent-50: #f3f6fc;
+  --accent-100: #eef3fc;
+  --accent-400: #86a6e0;
+  --accent-500: #4f7ccb;
+  --accent-700: #1f478a;
+  --accent-800: #173464;
+  --navy: #0f1f3d;
+  --amber: #b45309;
+  --amber-100: #fdf1e2;
+  --shadow-sm: 0 1px 2px rgba(18, 37, 67, 0.05), 0 1px 3px rgba(18, 37, 67, 0.07);
+  --shadow-md: 0 4px 14px rgba(18, 37, 67, 0.1);
+  --radius: 6px;
+  --ease: 160ms cubic-bezier(0.2, 0, 0, 1);
+}
